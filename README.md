@@ -1,3 +1,7 @@
+Sorry but Solver64 has already reached it's end of life. You are free to install and run it but there will be no future updates.  For further details, please refer to the following video:
+https://www.youtube.com/watch?v=TAsdr4ypBko
+
+
 # NanoVNA-Solver64
 
 This software requires the National Instruments 2021 SP1 64-bit runtime and NIVISA.  There is no installation, no documentation and no support for this software.   
